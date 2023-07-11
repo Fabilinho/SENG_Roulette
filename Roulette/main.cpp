@@ -80,8 +80,8 @@ public:
 };
 
 int main() {
-
-
+int guthaben = 500;
+guthaben += 1
     return 0;
 }
 
